@@ -50,12 +50,12 @@
 "couple_male": "I'm sorry i didn't understand for so long",
 "couple_female": "Put everything in your soulders",
 "admin": "This command is only for Admin⚠️!",
-"botAdmin": "Please provide me Admin Role❗",
-"owner": "This command is Only for my Owner ⚠️",
-"group": "This feature is only for Group ❗",
+"botAdmin": "euh...mets moi admin d'abord comrade🙄",
+"owner": "Pas touche comrade!!...Cette commande est reserve a mon maitre ",
+"group": "Cette fonctionalite n'est dispo que pour les groupes❗",
 "private": "This feature is only for Private chats.⚠️",
 "bot": "This feature is only for Bot Number.⚠️",
-"wait": "*Processing Your Request* ✅"
+"wait": "*Patiente patience...j'ai presque fini* ✅"
 },
 "error": {
 "text": "Task Terminated"
